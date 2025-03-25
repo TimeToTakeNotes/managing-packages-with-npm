@@ -1,5 +1,9 @@
 {
 	"author": "Arno Christie",
+	"description": "Boilerplate on managin packages with npm",
+	"keywords": [ "npm", "backend", "development", "freecodecamp"],
+	"license": "",
+	"version": "0.0.1",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
